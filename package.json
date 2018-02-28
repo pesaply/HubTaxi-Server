@@ -32,6 +32,6 @@
     "socket.io": "0.x",
     "underscore": "*",
     "winston": "0.8.0",
-    "winston-mongodb": "0.4.3"
+    "winston-mongodb": "1.0.0"
   }
 }
