@@ -31,7 +31,7 @@
     "redis": "0.10.1",
     "socket.io": "0.x",
     "underscore": "*",
-    "winston": "0.8.0",
+    "winston": "3.3.0",
     "winston-mongodb": "0.4.3"
   }
 }
